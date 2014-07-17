@@ -20,3 +20,5 @@ In Target menu choose Android 2.2, and create the device with these options so f
 
 For those starting with Android development for the first time, Engin has shared an example application with us
 during the workshop. You will find it in "devel" folder with name "mytest". Inport this example app using "import project", with "copy projects into workspace" option.
+
+Once you import the project you can run it by right clicking on the project root (in the tree view) and choose "Run as android app". The opened window will show a menu as "Emulator-64-ARM", there choose to run your application.
